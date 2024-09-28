@@ -8,21 +8,20 @@ permalink: /portfolio/index.html
 # Research
 
 <h2 id="publications">Publications</h2>
+
 ### International Environmental Agreements:
+
 **Klis, AA.**, McGinty M., **Citizen Carbon Fund: Harmonized International Carbon Taxes and Transfers to Increase Treaty Size**, 2022. *The B.E. Journal of Economic Analysis & Policy*, 22(2): 269-280. Keywords: IEAs, public goods, stable coalitions, climate change, pollution abatement, asymmetry, transfers Available at: [https://doi.org/10.1515/bejeap-2021-0072](https://doi.org/10.1515/bejeap-2021-0072)  
   
-**Game Theory and Environmental Agreements: Getting Started with Coalition Models**, 
-2022. *EBSCO Pathways to Research in Sustainability, inaugural edition SUS027,*[s. l.], p. 1–18. Keywords: ​international environmental agreements, treaty, coalition, tragedy of the commons, game theory, self-enforcement. [Click here to Read](https://www.pathways2research.comptsGame%20Theory%20and%20Environmental%20Agreements%3A%20Getting%20Started%20with%20Coalition%20Models).
+**Game Theory and Environmental Agreements: Getting Started with Coalition Models**, 2022. *EBSCO Pathways to Research in Sustainability, inaugural edition SUS027,*[s. l.], p. 1–18. Keywords: ​international environmental agreements, treaty, coalition, tragedy of the commons, game theory, self-enforcement. [Click here to Read](https://www.pathways2research.comptsGame%20Theory%20and%20Environmental%20Agreements%3A%20Getting%20Started%20with%20Coalition%20Models).
   
-
 **Identity and Equal Treatment in Negative Externality Agreements**, 2019. *International Environmental Agreements: Politics, Law, and Economics*​, 19(6): 615-630. Keywords: agreements, equal treatment, exclusive coalition, minilateralism, minimum participation, negative externality. Available at: [https://doi.org/10.1007/s10784-019-09456-5](https://doi.org/10.1007/s10784-019-09456-5). 
 
 ### Theory:  
 
 **Klis, AA.**, Melstrom, RT., **Strategic behavior and dynamic externalities in commercial fisheries**, 2020. *Ecological Economics*, 169: 106503 (March). Keywords: bioeconomics, game theory, cooperation, overfishing. Available at: [https://doi.org/10.1016/j.ecolecon.2019.106503](https://doi.org/10.1016/j.ecolecon.2019.106503).  
   
-**On the Openness of Unique Pure-Strategy Nash Equilibrium.**
-2019. *The B.E. Journal of Theoretical Economics,* 19(1): 1-9. Keywords: unique Nash equilibrium, pure strategies, open condition, differentiable strict concavity, transversal, game theory, univalence. ​Available at: [https://doi.org/10.1515/bejte-2017-0065](https://doi.org/10.1515/bejte-2017-0065)
+**On the Openness of Unique Pure-Strategy Nash Equilibrium.** 2019. *The B.E. Journal of Theoretical Economics,* 19(1): 1-9. Keywords: unique Nash equilibrium, pure strategies, open condition, differentiable strict concavity, transversal, game theory, univalence. ​Available at: [https://doi.org/10.1515/bejte-2017-0065](https://doi.org/10.1515/bejte-2017-0065)
   
 ### Empirical Applications:  
   
