@@ -7,7 +7,7 @@ url: "https://drklis.github.io"
 baseurl: "/jekyll-job-market-example"
 repository: "drklis/jekyll-job-market-example"
 header:
-  image: /assets/images/niubanner.png
+  image: /assets/images/anna.jpg
 
 include:
   - _pages
