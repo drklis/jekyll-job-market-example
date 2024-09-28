@@ -1,11 +1,11 @@
 # Configs for pwills.com
 
-title: "Jekyll Profile"
-name: "Jekyll base site based on pwills.com"
-email: a.bougher1999@gmail.com
-url: "https://adambougher.github.io"
-baseurl: "/jekyll-pwillis"
-repository: "AdamBougher/jekyll-pwillis"
+title: "Dr. Anna A. Klis"
+name: "Jekyll Website for Dr. Klis"
+email: aklis@niu.edu
+url: "https://drklis.github.io"
+baseurl: "/jekyll-job-market-example"
+repository: "drklis/jekyll-job-market-example"
 header:
   image: /assets/images/niubanner.png
 
@@ -47,15 +47,15 @@ author:
 
 
 # # comments by disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "pwills-com"
+# comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "pwills-com"
 
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-116208936-1"
+# analytics:
+#  provider: "google"
+#  google:
+#    tracking_id: "UA-116208936-1"
 
 
 # pagination for blog page
